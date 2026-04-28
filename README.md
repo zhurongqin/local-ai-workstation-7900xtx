@@ -1,7 +1,9 @@
 # 7000元 二手 7900XTX 本地AI工作站
+
 低成本搭建离线AI环境，0 Token费，无限运行大模型 & OpenClaw Agent
 
 ## 🎯 项目亮点
+
 - ✅ 总价不到 7000 元，性价比拉满
 - ✅ AMD RX 7900XTX 24G 大显存
 - ✅ 本地离线运行 Qwen3.5、Gemma 等大模型
@@ -10,11 +12,13 @@
 - ✅ Windows 傻瓜式教程，小白可复刻
 
 ## 🖥️ 硬件配置（参考）
+
 - 显卡：AMD RX 7900XTX 24G（二手）
 - 整机预算：≈ 7000 元
 - 用途：本地大模型、AI Agent、编程助手、离线AI
 
 ## 🚀 一键快速开始
+
 1. 安装 AMD ROCm 驱动
 2. 安装 LM Studio
 3. 下载并运行大模型
@@ -24,6 +28,7 @@
 详细步骤请看：[完整安装教程](./install.md)
 
 ## 📂 项目内容
+
 - 全套命令脚本
 - 软件下载地址（官方+分流）
 - 模型推荐与配置
@@ -31,9 +36,16 @@
 - 常见问题 FAQ
 
 ## 📺 视频教程
-B站：【你的B站名称】
-小红书：【你的小红书名称】
+
+### 🅱️ B站
+
+[![B站-老朱AI日常](https://img.shields.io/badge/B站-老朱AI日常-00a1d6?style=for-the-badge)](https://space.bilibili.com/512159946?spm_id_from=333.33.0.0)
+
+### 📕 小红书
+
+[![小红书-老朱AI日常](https://img.shields.io/badge/小红书-老朱AI日常-fe2c55?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5ee2cab70000000001007e00)
 
 ## ⭐ 如果你觉得有用
+
 欢迎 Star ⭐ 支持一下！
-需要帮助可以提 Issue ~
+需要帮助可以提 Issue \~
